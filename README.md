@@ -1,4 +1,4 @@
 
-Exploratory Data Analysis (EDA) adalah sebuah pendekatan analisis data yang bertujuan untuk memahami karakteristik dari data yang dimiliki. Tujuan utamanya adalah untuk mengungkap pola-pola, hubungan, anomali, dan kecenderungan yang mungkin tersembunyi dalam data tanpa membuat asumsi sebelumnya. EDA sering kali dilakukan dengan menggunakan teknik visualisasi data seperti histogram, scatter plot, box plot, dan lain sebagainya untuk mengeksplorasi struktur dan distribusi dari data.
 
-Dengan melakukan EDA, analis dapat memahami lebih dalam tentang data yang mereka miliki, memvalidasi asumsi-asumsi yang mungkin mereka miliki sebelumnya, mengidentifikasi nilai-nilai yang hilang atau anomali, serta menemukan insight-insight yang mungkin berguna dalam membuat keputusan atau membangun model statistik atau machine learning
+
+
